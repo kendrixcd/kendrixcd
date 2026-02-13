@@ -1,7 +1,6 @@
 # 👋 Hi, I'm kendrix
 
-Still trying to figure out what to do with my life
-I like reverse engineering old fortnite versions.
+digger
 
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=kendrixcd&label=Profile%20views&color=0e75b6&style=flat" alt="itztiva" />
